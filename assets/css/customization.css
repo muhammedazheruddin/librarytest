@@ -1,0 +1,62 @@
+/*Login*/
+
+.theme-white .navbar .nav-link .feather {
+	color: #FFF !important;
+	font-weight: bolder;
+}
+.theme-white .settingSidebar .settingPanelToggle {
+	background-color: #6B8E23 !important;
+	}
+
+.theme-white .btn-primary {
+	background: linear-gradient(to bottom,    #6B8E23    30%,   #186a3b   100%) !important;
+	border-color: transparent !important;
+	color: #fff;
+}
+.form-control, .input-group-text, .custom-select, .custom-file-label {
+	background-color: #fdfdff;
+	border-color: #6B8E23 !important;
+}
+/*Login Ends*/
+
+.logo-name{
+	color: white;
+	font-weight: bolder;
+}
+#card-header {
+    background: linear-gradient(to bottom,    #6B8E23    30%,   #186a3b   100%) !important;
+    font-size: 12px !important;
+    font-weight: lighter;
+    color:white !important;
+}
+.card-title
+{
+	font-size: 16px !important;
+    font-weight: lighter;
+    color:white !important;
+}
+.main-sidebar .sidebar-menu li a {
+	position: relative;
+	display: flex;
+	align-items: center;
+	height: 50px;
+	padding: 0 20px;
+	width: 100%;
+	letter-spacing: 0.3px;
+	color: black !important;
+	font-weight: 600;
+	text-decoration: none;
+	 background: linear-gradient(to bottom,   #ecf0f1   00%, #FFF 100%) !important;
+}
+.main-sidebar .sidebar-brand {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	height: 70px;
+	line-height: 70px;
+	background: linear-gradient(to bottom,    #6B8E23    20%,   #186a3b   100%) !important;
+}
+.theme-white .navbar {
+	background: linear-gradient(to bottom,    #6B8E23    20%,   #186a3b   100%) !important;
+	box-shadow: 15px 9px 25px 0 rgba(0,0,0,0.1);
+}
